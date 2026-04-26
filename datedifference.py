@@ -24,3 +24,4 @@ elif diff.days > 1:
     print('The difference between your two dates is', diff.days, 'days')
 else:
     print('There is no difference between your dates')
+
